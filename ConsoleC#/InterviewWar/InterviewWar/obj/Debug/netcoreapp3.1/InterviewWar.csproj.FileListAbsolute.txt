@@ -1,0 +1,13 @@
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\bin\Debug\netcoreapp3.1\InterviewWar.exe
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\bin\Debug\netcoreapp3.1\InterviewWar.deps.json
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\bin\Debug\netcoreapp3.1\InterviewWar.runtimeconfig.json
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\bin\Debug\netcoreapp3.1\InterviewWar.runtimeconfig.dev.json
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\bin\Debug\netcoreapp3.1\InterviewWar.dll
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\bin\Debug\netcoreapp3.1\InterviewWar.pdb
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.csprojAssemblyReference.cache
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.AssemblyInfoInputs.cache
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.AssemblyInfo.cs
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.csproj.CoreCompileInputs.cache
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.dll
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.pdb
+C:\Users\con7r\source\repos\InterviewWar\InterviewWar\obj\Debug\netcoreapp3.1\InterviewWar.genruntimeconfig.cache
